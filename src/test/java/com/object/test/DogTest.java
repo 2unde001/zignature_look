@@ -28,9 +28,6 @@ public class DogTest
         dog[12] = new Dog();
 
 
-
-
-
         System.out.println("Total number of elements in dog object is " + dog.length);
 
         Assert.assertEquals("SMITH", dog[0].name = "smith".toUpperCase());
@@ -77,7 +74,7 @@ public class DogTest
 
         while (x < dog.length){
             dog[x].bark();
-             x++;
+             x = x +1;
         }
 
         Assert.assertEquals(true,dog[12].name.equals("middleton".toUpperCase()));

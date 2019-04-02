@@ -17,7 +17,6 @@ public class Main
         System.out.println((cal.get(Calendar.DST_OFFSET)));
         System.out.println((cal.get(Calendar.YEAR)));
 
-
 	
     }
 }
