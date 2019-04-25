@@ -3,6 +3,8 @@ package com.object;
 public class Dog
 {
     public String name;
+    private int x;
+
 
     public boolean bark()
     {
@@ -12,8 +14,16 @@ public class Dog
     }
 
 
+    public int getSize()
+    {
+        return x;
+    }
 
-
-
+    public int setSize(int i)
+    {
+        x = i;
+        System.out.println("Elements available in DOg array is " + x);
+        return x;
+    }
 
 }

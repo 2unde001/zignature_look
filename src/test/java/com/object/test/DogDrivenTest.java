@@ -5,7 +5,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-public class DogTest
+public class DogDrivenTest
 {
     Dog[] dog = new Dog[13];
 
@@ -78,6 +78,23 @@ public class DogTest
         }
 
         Assert.assertEquals(true,dog[12].name.equals("middleton".toUpperCase()));
+
+    }
+
+    @Test
+    public void getArrayObject()
+    {
+        Dog[] pets;
+        pets = new Dog[7];
+
+        pets[0] = new Dog();
+        pets[1] = new Dog();
+
+        Assert.assertEquals(30, pets[0].setSize(30));
+        int x = pets[0].getSize();
+        System.out.println(x);
+
+        Assert.assertEquals(8, pets[1].setSize(8));
 
     }
 }

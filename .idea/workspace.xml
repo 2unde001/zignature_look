@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce1e157f-53ca-4456-9ceb-9bbbd8228f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dotcom/game/DotCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dotcom/game/SimpleDotCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/ClockTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/object/MusicInstruments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/PuzzleTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/test/ClockTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/test/MixValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/test/MusicInstrumentsTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/object/test/XCopy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/object/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/object/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/object/test/DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/object/test/DogDrivenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/object/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/object/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/object/test/DogTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,22 +28,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/SongTestDrive.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dotcom/game/DotCom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="156">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/object/Song.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dotcom/game/SimpleDotCom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+            <state relative-caret-position="40">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="43" />
+              <folding>
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,7 +72,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/object/Echo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/object/test/EchoTest.java" />
         <option value="$PROJECT_DIR$/JavaTutorial.html" />
-        <option value="$PROJECT_DIR$/src/main/java/com/object/Dog.java" />
         <option value="$PROJECT_DIR$/CalenderProject/src/com/calender/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/object/test/DogTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/object/test/BookTest.java" />
@@ -74,6 +86,21 @@
         <option value="$PROJECT_DIR$/src/test/java/com/object/test/TriangleTestDrive.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/object/test/SongTestDrive.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/object/Song.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/object/test/MusicInstrumentsTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/object/MusicInstruments.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/java/encapsulation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/object/Dog.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/object/test/DogDrivenTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/object/ClockTime.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/object/test/ClockTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/object/test/XCopy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/object/test/MixValue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/object/Puzzle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/object/PuzzleTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dotcom/game/test/DotCom.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dotcom/game/test/DotcomTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dotcom/game/DotCom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dotcom/game/SimpleDotCom.java" />
       </list>
     </option>
   </component>
@@ -85,10 +112,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -127,7 +154,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="object" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comjavaobjecttutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zignature_look" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="comjavaobjecttutorial" type="b2602c69:ProjectViewProjectNode" />
@@ -142,22 +178,35 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="comjavaobjecttutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zignature_look" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comjavaobjecttutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554238985089" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556141054243" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EcommerceProject" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dotcom.game" />
       <recent name="com.object" />
     </key>
   </component>
@@ -173,8 +222,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SongTestDrive.validateMusicPlayed">
-    <configuration name="ArrayTestDrive.validateIslandArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DotCom">
+    <configuration name="DotCom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dotcom.game.DotCom" />
+      <module name="com.javaobject.tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dotcom.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DotcomTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dotcom.game.test.DotcomTestDrive" />
+      <module name="com.javaobject.tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dotcom.game.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClockTestDrive.validateRealTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.javaobject.tutorial" />
       <extension name="coverage">
         <pattern>
@@ -183,14 +258,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.object.test" />
-      <option name="MAIN_CLASS_NAME" value="com.object.test.ArrayTestDrive" />
-      <option name="METHOD_NAME" value="validateIslandArray" />
+      <option name="MAIN_CLASS_NAME" value="com.object.test.ClockTestDrive" />
+      <option name="METHOD_NAME" value="validateRealTime" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookTestDrive.validateBookTitleAndAuthor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DogDrivenTest.validateArrayObject" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="com.javaobject.tutorial" />
       <extension name="coverage">
         <pattern>
@@ -199,23 +274,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.object.test" />
-      <option name="MAIN_CLASS_NAME" value="com.object.test.BookTestDrive" />
-      <option name="METHOD_NAME" value="validateBookTitleAndAuthor" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DogTest.validateArrayObject" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
-      <module name="com.javaobject.tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.object.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.object.test" />
-      <option name="MAIN_CLASS_NAME" value="com.object.test.DogTest" />
+      <option name="MAIN_CLASS_NAME" value="com.object.test.DogDrivenTest" />
       <option name="METHOD_NAME" value="validateArrayObject" />
       <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
@@ -223,7 +282,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HobbitsTestDrive.validateName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MixValue.validateOutput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.javaobject.tutorial" />
       <extension name="coverage">
         <pattern>
@@ -232,40 +291,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.object.test" />
-      <option name="MAIN_CLASS_NAME" value="com.object.test.HobbitsTestDrive" />
-      <option name="METHOD_NAME" value="validateName" />
+      <option name="MAIN_CLASS_NAME" value="com.object.test.MixValue" />
+      <option name="METHOD_NAME" value="validateOutput" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SongTestDrive.validateMusicPlayed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PuzzleTestDrive.validatePuzzleSolution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.javaobject.tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.object.test.*" />
+          <option name="PATTERN" value="com.object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.object.test" />
-      <option name="MAIN_CLASS_NAME" value="com.object.test.SongTestDrive" />
-      <option name="METHOD_NAME" value="validateMusicPlayed" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TriangleTestDrive.validateTriangleArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.javaobject.tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.object.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.object.test" />
-      <option name="MAIN_CLASS_NAME" value="com.object.test.TriangleTestDrive" />
-      <option name="METHOD_NAME" value="validateTriangleArea" />
+      <option name="PACKAGE_NAME" value="com.object" />
+      <option name="MAIN_CLASS_NAME" value="com.object.PuzzleTestDrive" />
+      <option name="METHOD_NAME" value="validatePuzzleSolution" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -273,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SongTestDrive.validateMusicPlayed" />
-        <item itemvalue="JUnit.TriangleTestDrive.validateTriangleArea" />
-        <item itemvalue="JUnit.ArrayTestDrive.validateIslandArray" />
-        <item itemvalue="JUnit.HobbitsTestDrive.validateName" />
-        <item itemvalue="JUnit.BookTestDrive.validateBookTitleAndAuthor" />
+        <item itemvalue="Application.DotCom" />
+        <item itemvalue="Application.DotcomTestDrive" />
+        <item itemvalue="JUnit.PuzzleTestDrive.validatePuzzleSolution" />
+        <item itemvalue="JUnit.MixValue.validateOutput" />
+        <item itemvalue="JUnit.ClockTestDrive.validateRealTime" />
       </list>
     </recent_temporary>
   </component>
@@ -295,42 +338,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArrayTestDrive_validateIslandArray - 2019.03.31 at 21h 46m 20s.xml">
-      <configuration name="ArrayTestDrive.validateIslandArray" configurationId="JUnit" />
+    <history-entry file="MixValue_validateOutput - 2019.04.08 at 06h 44m 25s.xml">
+      <configuration name="MixValue.validateOutput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayTestDrive_validateIslandArray - 2019.03.31 at 21h 46m 34s.xml">
-      <configuration name="ArrayTestDrive.validateIslandArray" configurationId="JUnit" />
+    <history-entry file="MixValue_validateOutput - 2019.04.08 at 06h 44m 53s.xml">
+      <configuration name="MixValue.validateOutput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayTestDrive_validateIslandArray - 2019.03.31 at 21h 50m 05s.xml">
-      <configuration name="ArrayTestDrive.validateIslandArray" configurationId="JUnit" />
+    <history-entry file="MixValue_validateOutput - 2019.04.08 at 06h 45m 26s.xml">
+      <configuration name="MixValue.validateOutput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayTestDrive_validateIslandArray - 2019.03.31 at 22h 22m 47s.xml">
-      <configuration name="ArrayTestDrive.validateIslandArray" configurationId="JUnit" />
+    <history-entry file="MixValue_validateOutput - 2019.04.08 at 06h 45m 47s.xml">
+      <configuration name="MixValue.validateOutput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTestDrive_validateTriangleArea - 2019.03.31 at 22h 23m 02s.xml">
-      <configuration name="TriangleTestDrive.validateTriangleArea" configurationId="JUnit" />
+    <history-entry file="PuzzleTestDrive_validatePuzzleSolution - 2019.04.08 at 07h 20m 31s.xml">
+      <configuration name="PuzzleTestDrive.validatePuzzleSolution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTestDrive_validateTriangleArea - 2019.03.31 at 22h 24m 00s.xml">
-      <configuration name="TriangleTestDrive.validateTriangleArea" configurationId="JUnit" />
+    <history-entry file="PuzzleTestDrive_validatePuzzleSolution - 2019.04.08 at 07h 21m 36s.xml">
+      <configuration name="PuzzleTestDrive.validatePuzzleSolution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTestDrive_validateTriangleArea - 2019.03.31 at 22h 32m 57s.xml">
-      <configuration name="TriangleTestDrive.validateTriangleArea" configurationId="JUnit" />
+    <history-entry file="PuzzleTestDrive_validatePuzzleSolution - 2019.04.08 at 07h 22m 09s.xml">
+      <configuration name="PuzzleTestDrive.validatePuzzleSolution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTestDrive_validateMusicPlayed - 2019.04.02 at 22h 01m 00s.xml">
-      <configuration name="SongTestDrive.validateMusicPlayed" configurationId="JUnit" />
+    <history-entry file="PuzzleTestDrive_validatePuzzleSolution - 2019.04.08 at 07h 23m 38s.xml">
+      <configuration name="PuzzleTestDrive.validatePuzzleSolution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTestDrive_validateMusicPlayed - 2019.04.02 at 22h 02m 15s.xml">
-      <configuration name="SongTestDrive.validateMusicPlayed" configurationId="JUnit" />
+    <history-entry file="PuzzleTestDrive_validatePuzzleSolution - 2019.04.08 at 07h 30m 43s.xml">
+      <configuration name="PuzzleTestDrive.validatePuzzleSolution" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SongTestDrive_validateMusicPlayed - 2019.04.02 at 22h 03m 08s.xml">
-      <configuration name="SongTestDrive.validateMusicPlayed" configurationId="JUnit" />
+    <history-entry file="PuzzleTestDrive_validatePuzzleSolution - 2019.04.23 at 22h 16m 15s.xml">
+      <configuration name="PuzzleTestDrive.validatePuzzleSolution" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23288591" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -339,7 +382,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37252125" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3711048" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -347,7 +390,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32577905" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -423,58 +466,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/object/TapeDeck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/TapeDeckTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/object/DrumKit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/EchoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/object/Echo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/DrumKitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -502,16 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/DogTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -527,26 +512,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/object/Island.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/BookTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/HobbitsTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/TriangleTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -581,13 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/object/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -599,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="55" column="30" lean-forward="true" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/ArrayTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -613,10 +564,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/SongTestDrive.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/java/encapsulation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/object/MusicInstruments.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="800">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/MusicInstrumentsTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/object/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4360">
+          <caret line="235" column="23" selection-start-line="235" selection-start-column="23" selection-end-line="235" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/DogDrivenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -625,8 +608,166 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/object/Song.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="340">
           <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/XCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/SongTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/object/TapeDeck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/TapeDeckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/HobbitsTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/BookTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/ClockTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/DrumKitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/object/Puzzle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/object/ClockTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/EchoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/object/DrumKit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/PuzzleTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/object/test/MixValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dotcom/game/test/DotcomTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dotcom/game/DotCom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dotcom/game/SimpleDotCom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
