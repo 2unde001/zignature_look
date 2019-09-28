@@ -6,9 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com.javaobject.tutorial" />
+        <module name="samplegametutorial" />
         <module name="IdeaProjects" />
+        <module name="com.javaobject.tutorial" />
+        <module name="sample-game-tutorial" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="simplegameproject" target="1.7" />
+      <module name="simpleprojectproject" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
