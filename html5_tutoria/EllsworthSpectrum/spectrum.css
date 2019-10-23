@@ -1,0 +1,34 @@
+
+h3{
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
+td{
+  width: 150px;
+  height: 300px;
+  border: 6px solid white;
+}
+
+table{
+  margin: auto;
+}
+
+#td_one{
+  background:#95C623;
+}
+
+#td_two{
+  background: #E55812;
+}
+
+#td_3{
+  background: #0E4749;
+}
+
+#td_4{
+  background: #EFE7DA;
+}
+
+#td_5{
+  background: #002626;
+}
