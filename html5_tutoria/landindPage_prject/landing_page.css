@@ -1,0 +1,82 @@
+
+/* Using css customer method to adhre to not repeat your self principle */
+:root{
+  --text_color:white;
+}
+
+body{
+  background: #00171F;
+  font-family: 'Roboto', sans-serif;
+  color: var(--text_color);
+  text-align:center;
+  border:40px solid #a5ebff;
+  border-top: 0px;
+  margin: 0px;
+}
+
+ p{
+   padding: 5% 20% 0% 20%;
+ }
+
+  form{
+   font-size: 1.5em;
+   margin-bottom: 5px;
+ }
+
+ .btn{
+   width: 120px;
+   height: 60px;
+   background: red;
+   border-radius: 20px;
+   border-style: none;
+   margin: 4px;
+   margin-top: 12px;
+   font-size: 0.75em;
+ }
+
+
+/* h1{
+  text-align: center;
+  color: var(--text_color);
+}
+
+h2{
+  text-align: center;
+  color: var(--text_color);
+} */
+
+
+
+/*
+input{
+  height: 20px;
+  width: 300px;
+  margin-bottom: 5px;
+}
+
+input #first_name{
+  margin:0px;
+  padding-bottom: 10px;
+}
+
+input, #last_name{
+  padding-bottom: 10px;
+  margin: 0px;
+}
+h3{
+  font-size: 25px;
+  color: white;
+  text-align: center;
+
+}
+
+.signUp_form .btn{
+  margin: auto;
+  margin-top: 10px;
+  width: 120px;
+  height: 60px;
+  background: red;
+  border-radius: 20px;
+  border-style: none;
+  font-size: 20px;
+} */

@@ -1,0 +1,28 @@
+h1{
+  font-family: monospace;
+}
+
+/*
+1em = 16px
+2em = 32px
+ */
+p{
+  font-family:sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+body{
+  font-size: 20px;
+}
+
+/* Twice as size of body font size */
+#two{
+  font-size: 1.0em;
+}
+
+/* Text properties */
+h1{
+  text-align: center;
+
+}

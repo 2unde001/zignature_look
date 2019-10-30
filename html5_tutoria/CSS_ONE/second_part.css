@@ -1,0 +1,22 @@
+
+body{
+  background: url(https://aruba.bynder.com/m/53b902a616f27b58/desktop_square_retina-Rodgers-Beach.jpg)
+
+}
+
+div{
+  background: #9c9bde;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: blue;
+}
+
+p{
+  margin: 20px;
+  color: black;
+}
+
+span{
+  background: red;
+  color: blue;
+}
